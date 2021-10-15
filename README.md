@@ -6,6 +6,7 @@ Poc of a factorial app for the building CI/CD workflow with Heroku CI using [thi
 
 Run `npm start` at the repository `root` directory, then access the endpoints on your navigator (e.g: `http://localhost:3000/`)
 
+<img width="816" alt="Screenshot 2021-10-15 at 14 07 49" src="https://user-images.githubusercontent.com/22433243/137526343-10f4d012-e8e9-4e52-9dd7-1d44567af07f.png">
 
 ## How to test
 
