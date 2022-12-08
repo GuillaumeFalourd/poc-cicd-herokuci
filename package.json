@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/123MwanjeMike/cicd-with-herokuci#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "chai": "^4.3.4",
